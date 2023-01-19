@@ -1,0 +1,8 @@
+Sender 	Manan
+Sender Address 	 Gujrawanla
+Receiver 	Moosa
+Receiver Address 	Lahore
+Weight of Parcel 	25
+Total Bill of the Parcel 	100
+
+

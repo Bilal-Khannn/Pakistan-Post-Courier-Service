@@ -1,0 +1,8 @@
+Sender 	Bilal
+Sender Address 	 Rawalpindi
+Receiver 	Shoaib
+Receiver Address 	Islamabad
+Weight of Parcel 	50
+Total Bill of the Parcel 	120
+
+
